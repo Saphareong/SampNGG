@@ -1,0 +1,108 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17:37:45] 
+[17:37:45] Server Plugins
+[17:37:45] --------------
+[17:37:45]  Loading plugin: streamer
+[17:37:45] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: mysql
+[17:37:45]  >> plugin.mysql: R33 successfully loaded.
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: sscanf
+[17:37:45] 
+
+[17:37:45]  ===============================
+
+[17:37:45]       sscanf plugin loaded.     
+
+[17:37:45]    (c) 2009 Alex "Y_Less" Cole
+
+[17:37:45]    0.3d-R2 500 Players "dnee"
+
+[17:37:45]  ===============================
+
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: whirlpool
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17:37:45] 
+[17:37:45] Server Plugins
+[17:37:45] --------------
+[17:37:45]  Loading plugin: streamer
+[17:37:45] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: mysql
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17:37:45] 
+[17:37:45] Server Plugins
+[17:37:45] --------------
+[17:37:45]  Loading plugin: streamer
+[17:37:45] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: mysql
+[17:37:45]  >> plugin.mysql: R33 successfully loaded.
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: sscanf
+[17:37:45] 
+
+[17:37:45]  ===============================
+
+[17:37:45]       sscanf plugin loaded.     
+
+[17:37:45]    (c) 2009 Alex "Y_Less" Cole
+
+[17:37:45]    0.3d-R2 500 Players "dnee"
+
+[17:37:45]  ===============================
+
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: whirlpool
+[17:37:45]  >> plugin.mysql: R33 successfully loaded.
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: sscanf
+[17:37:45] 
+
+[17:37:45]  ===============================
+
+[17:37:45]       sscanf plugin loaded.     
+
+[17:37:45]    (c) 2009 Alex "Y_Less" Cole
+
+[17:37:45]    0.3d-R2 500 Players "dnee"
+
+[17:37:45]  ===============================
+
+[17:37:45]   Loaded.
+[17:37:45]  Loading plugin: whirlpool
